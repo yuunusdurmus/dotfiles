@@ -24,12 +24,12 @@ colorscheme angr
 set autoindent
 
 set encoding=utf-8
-set guifont=Sauce\ Code\ Powerline:h11
 set guioptions-=T
 set guioptions-=r
 set guioptions-=L
 set guioptions-=e
 set guioptions+=c
+set guifont=Source\ Code\ Pro\ for\ Powerline:h12
 set backspace=indent,eol,start
 set number
 
